@@ -1,0 +1,13 @@
+.header{
+    border:solid;
+    color:rebeccapurple;
+    font: menu;
+
+}
+
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    font: menu;
+    color: seagreen;
+}
